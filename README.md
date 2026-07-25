@@ -25,7 +25,7 @@ This is at demand validation. Whether it gets built depends on whether people ru
 1. Would you actually run this against an endpoint you operate?
 2. Would you be willing to point an early version at a real endpoint (test or production)?
 
-Answer in the linked discussion, or open an issue here. A "no, because…" is as useful as a yes.
+Answer in [this thread on awesome-x402](https://github.com/xpaysh/awesome-x402/issues/1001), or open an issue here. A "no, because…" is as useful as a yes.
 
 ## Who's behind it
 
